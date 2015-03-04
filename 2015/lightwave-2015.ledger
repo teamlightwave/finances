@@ -1,13 +1,17 @@
 2015-02-28 * Opening Balance
-  Assets:Checking  $1361.50
+  Assets:Cash  $1361.50
   Equity:Opening Balances
 
-2015-03-01 teamlightwave.org domain registration
+2015-03-01 teamlightwave.org Domain Registration
   Expenses:Misc  $17.99
-  Assets:Accounts Receivable:Henry Jiang
+  Assets:Receivables:Henry Jiang
+
+2015-03-03 CDBA Membership
+  Assets:Receivables:Jei Dungca  $140
+  Liabilities:Payables:CDBA:Jei Dungca
 
 2015-03-03 Jei Dungca
   ;WF SurePay
-  Assets:Checking  $140
-  Liabilities:Accounts Payable:CDBA:Jei Dungca
+  Assets:Cash  $140
+  Assets:Receivables:Jei Dungca
 
