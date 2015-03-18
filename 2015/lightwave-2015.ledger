@@ -15,3 +15,13 @@
   Assets:Cash  $140
   Assets:Receivables:Jei Dungca
 
+2015-03-03 CDBA Membership
+  Assets:Receivables:Jeannie Llewellyn  $70
+  Liabilities:Payables:CDBA:Jeannie Llewellyn
+
+2015-03-18 Jeannie Llewellyn
+  ;WF SurePay
+  Assets:Cash  $70
+  Assets:Receivables:Jeannie Llewellyn
+
+
