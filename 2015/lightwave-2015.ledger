@@ -1,5 +1,5 @@
 2015-02-28 * Opening Balance
-  Assets:Cash  $1361.50
+  Assets:Checking  $1361.50
   Equity:Opening Balances
 
 2015-03-01 teamlightwave.org Domain Registration
@@ -12,7 +12,7 @@
 
 2015-03-03 Jei Dungca
   ;WF SurePay
-  Assets:Cash  $140
+  Assets:Checking  $140
   Assets:Receivables:Jei Dungca
 
 2015-03-03 CDBA Membership
@@ -21,7 +21,20 @@
 
 2015-03-18 Jeannie Llewellyn
   ;WF SurePay
-  Assets:Cash  $70
+  Assets:Checking  $70
   Assets:Receivables:Jeannie Llewellyn
 
+2015-04-20 (118) CDBA
+  ; Paragon Point race fee
+  Expenses:Paragon Point:race fee  $400
+  Assets:Checking
+
+2015-04-20 CDBA Membership
+  Assets:Receivables:Mark Poguntke  $140
+  Liabilities:Payables:CDBA:Mark Poguntke
+
+2015-04-20 Mark Poguntke
+  ;WF SurePay
+  Assets:Checking  $140
+  Assets:Receivables:Mark Poguntke
 
