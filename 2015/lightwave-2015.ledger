@@ -26,7 +26,7 @@
 
 2015-04-20 (118) CDBA
   ; Paragon Point race fee
-  Expenses:Paragon Point:race fee  $400
+  Expenses:Paragon Point:Race Fee  $400
   Assets:Checking
 
 2015-04-20 CDBA Membership
@@ -144,4 +144,13 @@
 2015-04-30 CDBA Membership
   Assets:Receivables:Flemming Wahl  $140
   Liabilities:Payables:CDBA:Flemming Wahl
+
+2015-05-07 Meetup Dues
+  Expenses:Misc:Meetup Dues  $89.94
+  Assets:Receivables:Melvin Lee
+
+2015-05-08 Diana Adachi
+  ;PayPal
+  Assets:Checking  $140
+  Assets:Receivables:Diana Adachi
 
