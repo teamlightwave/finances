@@ -159,3 +159,12 @@
   Assets:Checking  $140
   Assets:Receivables:Alan Layug
 
+2015-05-14 CDBA Membership
+  Assets:Receivables:Johanna van der Hulst  $140
+  Liabilities:Payables:CDBA:Johanna van der Hulst
+
+2015-05-14 Johanna van der Hulst
+  ;PayPal
+  Assets:Checking  $140
+  Assets:Receivables:Johanna van der Hulst
+
