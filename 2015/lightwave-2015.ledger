@@ -168,3 +168,12 @@
   Assets:Checking  $140
   Assets:Receivables:Johanna van der Hulst
 
+2015-05-27 CDBA Membership
+  Assets:Receivables:Sid Bodalia  $140
+  Liabilities:Payables:CDBA:Sid Bodalia
+
+2015-05-27 Sid Bodalia
+  ;PayPal
+  Assets:Checking  $140
+  Assets:Receivables:Sid Bodalia
+
