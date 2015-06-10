@@ -26,7 +26,7 @@
 
 2015-04-20 (118) CDBA
   ; Paragon Point race fee
-  Expenses:Paragon Point:Race Fee  $400
+  Expenses:Regatta:Race Fee  $400
   Assets:Checking
 
 2015-04-20 CDBA Membership
@@ -176,4 +176,21 @@
   ;PayPal
   Assets:Checking  $140
   Assets:Receivables:Sid Bodalia
+
+2015-06-06 Margot Bowen
+  ;Food
+  Expenses:Regatta:Food  $220.97
+  Assets:Receivables:Margot Bowen
+
+2015-06-06 Margot Bowen
+  Expenses:Barbeque  $106.98
+  Assets:Receivables:Margot Bowen
+
+2015-06-06 Margot Bowen
+  Assets:Receivables:Margot Bowen  $10
+  Expenses:Barbeque
+  
+2015-06-06 Margot Bowen
+  Assets:Receivables:Margot Bowen  $30
+  Expenses:Regatta
 
