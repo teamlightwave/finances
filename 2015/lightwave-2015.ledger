@@ -300,3 +300,52 @@
   Assets:Checking  $30
   Assets:Receivables:Ken Zhang
 
+2015-07-01 Jason Jay
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Jason Jay
+
+2015-07-01 CDBA Membership
+  Assets:Receivables:Charles Gillet  $140
+  Liabilities:Payables:CDBA:Charles Gillet
+
+2015-01-01 Charles Gillet
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Charles Gillet
+
+2015-07-01 Johanna van der Hulst
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Johanna van der Hulst
+
+2015-07-01 Jin Ruan
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Jin Ruan
+
+2015-01-01 Jin Ruan
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Jin Ruan
+
+2015-07-01 Charles Dillon
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Charles Dillon
+
+2015-07-01 Charles Dillon
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Charles Dillon
+
+2015-07-01 Chris Beltran
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Chris Beltran
+
+2015-07-01 Chris Beltran
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Chris Beltran
+
