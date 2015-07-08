@@ -354,3 +354,7 @@
   Assets:Checking  $30
   Assets:Receivables:Terry Osco
 
+2015-07-07 (121) CDBA
+  ; Sprints race fee
+  Expenses:Sprints:Race Fee  $400
+  Assets:Checking
