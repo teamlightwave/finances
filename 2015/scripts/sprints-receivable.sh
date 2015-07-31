@@ -1,8 +1,8 @@
 #!/bin/sh
 
 cat<<EOF
-2015-06-06 $@
+2015-07-16 $@
   Assets:Receivables:$@  \$30
-  Revenues:Regatta
+  Revenues:Sprints
 
 EOF
