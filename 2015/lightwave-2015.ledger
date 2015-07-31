@@ -358,3 +358,14 @@
   ; Sprints race fee
   Expenses:Sprints:Race Fee  $400
   Assets:Checking
+
+2015-07-16 Alan Layug
+  ;Cash/QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Alan Layug
+
+2015-07-16 Jessica Li
+  ;Cash/QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Jessica Li
+
