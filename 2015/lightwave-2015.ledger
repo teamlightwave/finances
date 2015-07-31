@@ -538,3 +538,75 @@
   Expenses:Sprints:Food  $82.47
   Assets:Receivables:Margot Bowen
 
+2015-07-30 Chris Beltran
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Chris Beltran
+
+2015-07-30 Jessica Li
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Jessica Li
+
+2015-07-30 Richard Ho
+  ;Check
+  Assets:Checking  $30
+  Assets:Receivables:Richard Ho
+
+2015-07-30 Peter Lee
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Peter Lee
+
+2015-07-30 Flemming Wahl
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Flemming Wahl
+
+2015-07-30 Aditi Kelkar
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Aditi Kelkar
+
+2015-07-30 Jade (Yuxue) Wang
+  ;Check
+  Assets:Checking  $140
+  Assets:Receivables:Jade (Yuxue) Wang
+
+2015-07-30 Richard Ho
+  ;Check
+  Assets:Checking  $70
+  Assets:Receivables:Richard Ho
+
+2015-07-30 Gladys Chaw
+  ;Check
+  Assets:Checking  $70
+  Assets:Receivables:Jason Jay
+
+2015-07-30 Melvin Lee
+  ;Check
+  Assets:Checking  $50.06
+  Assets:Receivables:Melvin Lee
+
+2015-07-30 Jason Trinh
+  ;Check
+  Assets:Checking  $170
+  Assets:Receivables:Jason Trinh
+
+2015-07-30 Michelle Hattan
+  ;Check
+  Assets:Checking  $300
+  Assets:Receivables:Michelle Hattan
+
+2015-07-30 Michelle Hattan
+  Assets:Receivables:Michelle Hattan  $100
+  Revenues:Barbecue
+
+2015-07-30 CDBA Membership
+  Assets:Receivables:Aditi Kelkar  $140
+  Liabilities:Payables:CDBA:Aditi Kelkar
+
+2015-07-30 CDBA Membership
+  Assets:Receivables:Jade (Yuxue) Wang  $140
+  Liabilities:Payables:CDBA:Jade (Yuxue) Wang
+
