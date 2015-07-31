@@ -453,3 +453,83 @@
   Assets:Receivables:Steven Lu  $30
   Revenues:Sprints
 
+2015-07-16 Adie Kelkar
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Adie Kelkar
+
+2015-07-16 Alan Layug
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Alan Layug
+
+2015-07-16 Charles Dillon
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Charles Dillon
+
+2015-07-16 Dante Popple
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Dante Popple
+
+2015-07-16 Diana Adachi
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Diana Adachi
+
+2015-07-16 Eric (Dieselfish) Wong
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Eric (Dieselfish) Wong
+
+2015-07-16 Flemming Wahl
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Flemming Wahl
+
+2015-07-16 Jade (Yuxue) Wang
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Jade (Yuxue) Wang
+
+2015-07-16 Jason Trinh
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Jason Trinh
+
+2015-07-16 Jeannie Llewellyn
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Jeannie Llewellyn
+
+2015-07-16 Jessica Li
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Jessica Li
+
+2015-07-16 Lili Hsu
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Lili Hsu
+
+2015-07-16 Peter Lee
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Peter Lee
+
+2015-07-16 Sathesh Anandh
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $30
+  Assets:Receivables:Sathesh Anandh
+
+2015-07-16 Mark Poguntke
+  ;Cash - QuickPay via Mark Poguntke
+  Assets:Checking  $15
+  Assets:Receivables:Mark Poguntke
+
+2015-07-16 Mark Poguntke
+  ;Food
+  Expenses:Sprints:Food  $15
+  Assets:Receivables:Mark Poguntke
+
