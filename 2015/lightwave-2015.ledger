@@ -610,3 +610,11 @@
   Assets:Receivables:Jade (Yuxue) Wang  $140
   Liabilities:Payables:CDBA:Jade (Yuxue) Wang
 
+2015-03-03 CDBA Membership
+  Assets:Receivables:Jason Wang  $70
+  Liabilities:Payables:CDBA:Jason Wang
+
+2015-03-03 Jason Wang
+  ;PayPal
+  Assets:Checking  $70
+  Assets:Receivables:Jason Wang
