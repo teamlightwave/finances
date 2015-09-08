@@ -610,11 +610,16 @@
   Assets:Receivables:Jade (Yuxue) Wang  $140
   Liabilities:Payables:CDBA:Jade (Yuxue) Wang
 
-2015-03-03 CDBA Membership
+2015-09-02 CDBA Membership
   Assets:Receivables:Jason Wang  $70
   Liabilities:Payables:CDBA:Jason Wang
 
-2015-03-03 Jason Wang
+2015-09-02 Jason Wang
   ;PayPal
   Assets:Checking  $70
   Assets:Receivables:Jason Wang
+
+2015-09-08 (126) CDBA
+  ; TI race fee
+  Expenses:TI:Race Fee  $1000
+  Assets:Checking
