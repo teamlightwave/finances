@@ -623,3 +623,13 @@
   ; TI race fee
   Expenses:TI:Race Fee  $1000
   Assets:Checking
+
+2015-09-02 CDBA Membership
+  Assets:Receivables:Ninad Golakiya  $70
+  Liabilities:Payables:CDBA:Ninad Golakiya
+
+2015-09-16 Ninad Golakiya
+  ;PayPal
+  Assets:Checking  $70
+  Assets:Receivables:Ninad Golakiya
+
