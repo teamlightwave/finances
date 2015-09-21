@@ -633,3 +633,16 @@
   Assets:Checking  $70
   Assets:Receivables:Ninad Golakiya
 
+2015-09-20 Margot Bowen
+  Assets:Receivables:Margot Bowen  $23
+  Revenue:Shirts
+
+2015-09-20 Margot Bowen
+  Assets:Receivables:Margot Bowen  $70
+  Revenues:TI
+
+2015-09-20 Margot Bowen
+  ;Food
+  Expenses:TI:Food  $170.37
+  Assets:Receivables:Margot Bowen
+
