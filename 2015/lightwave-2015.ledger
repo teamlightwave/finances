@@ -787,3 +787,73 @@
   Assets:Checking  $70
   Assets:Receivables:Richard Ho
 
+2015-10-05 Aditi Kelkar
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Aditi Kelkar
+
+2015-10-05 Alan Layug
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Alan Layug
+
+2015-10-05 Charles Dillon
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Charles Dillon
+
+2015-10-05 Henry Jiang
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Henry Jiang
+
+2015-10-05 Jei Dungca
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Jei Dungca
+
+2015-10-05 Jessica Li
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $55
+  Assets:Receivables:Jessica Li
+
+2015-10-05 Kelly Zhen
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Kelly Zhen
+
+2015-10-05 Sathesh Kiran
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Sathesh Kiran
+
+2015-10-05 Terry Osco
+  ;Cash - via Mark Poguntke
+  Assets:Receivables:Mark Poguntke  $70
+  Assets:Receivables:Terry Osco
+
+2015-09-20 Henry Jiang
+  ;Food
+  Expenses:TI:Food  $45
+  Assets:Receivables:Henry Jiang
+
+2015-09-20 Jeannie Llewellyn
+  ;Food
+  Expenses:TI:Food  $479.62
+  Assets:Receivables:Jeannie Llewellyn
+
+2015-09-20 Jessica Li
+  ;Food
+  Expenses:TI:Food  $15
+  Assets:Receivables:Jessica Li
+
+2015-09-20 Mark Poguntke
+  ;Food
+  Expenses:TI:Food  $15
+  Assets:Receivables:Mark Poguntke
+
+2015-09-20 Richard Ho
+  ;Food
+  Expenses:TI:Food  $18.8
+  Assets:Receivables:Richard Ho
+
