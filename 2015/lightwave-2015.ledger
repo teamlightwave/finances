@@ -635,7 +635,7 @@
 
 2015-09-20 Margot Bowen
   Assets:Receivables:Margot Bowen  $23
-  Revenue:Shirts
+  Revenues:Shirts
 
 2015-09-20 Margot Bowen
   ;Food
@@ -856,4 +856,34 @@
   ;Food
   Expenses:TI:Food  $18.8
   Assets:Receivables:Richard Ho
+
+2015-10-05 Mark Poguntke
+  ;Shirts and Hoodie order
+  Expenses:Shirts  $2013.28
+  Assets:Receivables:Mark Poguntke
+
+2015-07-30 CDBA Membership
+  Assets:Receivables:Angela Harper-Pedersen  $70
+  Liabilities:Payables:CDBA:Angela Harper-Pedersen
+
+2015-07-30 CDBA Membership
+  Assets:Receivables:Sathesh Anandh  $140
+  Liabilities:Payables:CDBA:Sathesh Anandh
+
+2015-09-19 Mark Poguntke
+  ;CDBA Membership Fees fronted by Mark Poguntke
+  Liabilities:Payables:CDBA:Aditi Kelkar  $140
+  Liabilities:Payables:CDBA:Angela Harper-Pedersen  $70
+  Liabilities:Payables:CDBA:Sathesh Anandh  $140
+  Assets:Receivables:Mark Poguntke
+
+2015-10-05 Mark Poguntke
+  ;Shirts
+  Assets:Receivables:Mark Poguntke  $1057
+  Revenues:Shirts
+
+2015-10-05 Mark Poguntke
+  ;Long Beach leftovers
+  Assets:Receivables:Mark Poguntke  $275
+  Revenues:Long Beach
 
