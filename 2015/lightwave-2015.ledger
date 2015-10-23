@@ -64,7 +64,6 @@
   Liabilities:Payables:CDBA:Flemming Wahl  $140
   Assets:Checking  $-2870
 
-
 2015-04-30 CDBA Membership
   Assets:Receivables:Alan Layug  $140
   Liabilities:Payables:CDBA:Alan Layug
@@ -900,5 +899,10 @@
   Liabilities:Payables:CDBA:Johanna van der Hulst  $140
   Liabilities:Payables:CDBA:Ninad Golakiya  $70
   Liabilities:Payables:CDBA:Sid Bodalia  $140
+  Assets:Checking
+
+2015-10-22 Jeannie Llewellyn
+  ;WF SurePay via Mark Poguntke
+  Assets:Receivables:Jeannie Llewellyn  $379.62
   Assets:Checking
 
