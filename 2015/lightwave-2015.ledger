@@ -907,7 +907,17 @@
   Assets:Checking
 
 2015-11-10 Angela Harper-Pedersen
-  ; PayPal
+  ;PayPal
   Assets:Checking  $70
   Assets:Receivables:Angela Harper-Pedersen
+
+2015-11-11 Meetup Dues
+  ;Meetup subscription 2015-10-08
+  Expenses:Misc:Meetup Dues  $19.99
+  Assets:Receivables:Melvin Lee
+
+2015-11-11 Meetup Dues
+  ;Meetup subscription 2015-11-08
+  Expenses:Misc:Meetup Dues  $19.99
+  Assets:Receivables:Melvin Lee
 
