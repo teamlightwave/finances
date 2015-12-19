@@ -308,10 +308,10 @@
   Assets:Receivables:Charles Gillet  $140
   Liabilities:Payables:CDBA:Charles Gillet
 
-2015-01-01 Charles Gillet
+2015-07-01 Mira Gillet
   ;Check
   Assets:Checking  $140
-  Assets:Receivables:Charles Gillet
+  Assets:Receivables:Mira Gillet
 
 2015-07-01 Johanna van der Hulst
   ;Check
@@ -945,4 +945,9 @@
   ;WF SurePay
   Assets:Checking  $137.01
   Assets:Receivables:Henry Jiang
+
+2015-12-19 CDBA Membership refund
+  ;Confirmed expected refund from CDBA
+  Liabilities:Payables:CDBA:Charles Gillet  $140
+  Assets:Receivables:Charles Gillet
 
