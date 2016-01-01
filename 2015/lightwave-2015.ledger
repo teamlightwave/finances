@@ -960,7 +960,8 @@
   Assets:Checking  $70
   Assets:Receivables:Dante Popple
 
-2015-12-17 Meetup Dues
+2015-12-17 Melvin Lee
+  ;Check #129
   Assets:Receivables:Melvin Lee  $59.92
   Assets:Checking
 
@@ -971,4 +972,9 @@
 2015-12-28 Sathesh Anandh
   Assets:Checking  $140
   Assets:Receivables:Sathesh Anandh
+
+2016-01-01 Richard Ho
+  ;Check #130
+  Assets:Receivables:Richard Ho  $18.80
+  Assets:Checking
 
