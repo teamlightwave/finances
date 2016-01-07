@@ -983,3 +983,8 @@
   Assets:Checking  $200
   Assets:Receivables:Steven Lu
 
+2015-01-04 CDBA
+  ;Check #1156
+  Assets:Checking  $140
+  Liabilities:Payables:CDBA:Charles Gillet
+
