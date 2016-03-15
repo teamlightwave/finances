@@ -35,3 +35,56 @@
   Assets:Checking  $140
   Liabilities:Payables:CDBA:Michelle Hattan
 
+2016-03-14 CDBA Membership
+  Liabilities:Payables:CDBA:Charles Dillon  $140
+  Liabilities:Payables:CDBA:Jei Dungca  $140
+  Liabilities:Payables:CDBA:Ninad Golakiya  $140
+  Liabilities:Payables:CDBA:Michelle Hattan  $140
+  Liabilities:Payables:CDBA:Richard Ho  $140
+  Liabilities:Payables:CDBA:Liliane Hsu  $140
+  Liabilities:Payables:CDBA:Henry Jiang  $140
+  Liabilities:Payables:CDBA:Maike Krämer  $140
+  Liabilities:Payables:CDBA:Alan Layug  $140
+  Liabilities:Payables:CDBA:Melvin Lee  $140
+  Liabilities:Payables:CDBA:Jessica Li  $140
+  Liabilities:Payables:CDBA:Jeannie Llewelyn  $70
+  Liabilities:Payables:CDBA:Nina Myers  $140
+  Liabilities:Payables:CDBA:Mark Poguntke  $140
+  Liabilities:Payables:CDBA:Dante Popple  $140
+  Liabilities:Payables:CDBA:Kenji Taira  $140
+  Liabilities:Payables:CDBA:Jenna Tanaka  $140
+  Liabilities:Payables:CDBA:Jason Trinh  $140
+  Liabilities:Payables:CDBA:Flemming Wahl  $140
+  Liabilities:Payables:CDBA:Jason Wang  $140
+  Liabilities:Payables:CDBA:Dolev Zaharony  $140
+  Assets:Checking  $-2870
+
+2016-03-14 CDBA Membership
+  Assets:Receivables:Charles Dillon  $140
+  Liabilities:Payables:CDBA:Charles Dillon  $-140
+  Assets:Receivables:Richard Ho  $140
+  Liabilities:Payables:CDBA:Richard Ho  $-140
+  Assets:Receivables:Henry Jiang  $140
+  Liabilities:Payables:CDBA:Henry Jiang  $-140
+  Assets:Receivables:Maike Krämer  $140
+  Liabilities:Payables:CDBA:Maike Krämer  $-140
+  Assets:Receivables:Alan Layug  $140
+  Liabilities:Payables:CDBA:Alan Layug  $-140
+  Assets:Receivables:Melvin Lee  $140
+  Liabilities:Payables:CDBA:Melvin Lee  $-140
+  Assets:Receivables:Jessica Li  $140
+  Liabilities:Payables:CDBA:Jessica Li  $-140
+  Assets:Receivables:Jeannie Llewelyn  $70
+  Liabilities:Payables:CDBA:Jeannie Llewelyn  $-70
+  Assets:Receivables:Nina Myers  $140
+  Liabilities:Payables:CDBA:Nina Myers  $-140
+  Assets:Receivables:Dante Popple  $140
+  Liabilities:Payables:CDBA:Dante Popple  $-140
+  Assets:Receivables:Kenji Taira  $140
+  Liabilities:Payables:CDBA:Kenji Taira  $-140
+  Assets:Receivables:Jason Trinh  $140
+  Liabilities:Payables:CDBA:Jason Trinh  $-140
+  Assets:Receivables:Flemming Wahl  $140
+  Liabilities:Payables:CDBA:Flemming Wahl  $-140
+  Assets:Receivables:Dolev Zaharony  $140
+  Liabilities:Payables:CDBA:Dolev Zaharony  $-140
