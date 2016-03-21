@@ -89,8 +89,18 @@
   Assets:Receivables:Dolev Zaharony  $140
   Liabilities:Payables:CDBA:Dolev Zaharony  $-140
 
-2016-03-14 CDBA Membership
+2016-03-20 CDBA Membership
   ;PayPal
   Assets:Checking  $140
   Assets:Receivables:Melvin Lee
+
+2016-03-21 CDBA Membership
+  ;PayPal
+  Assets:Checking  $140
+  Liabilities:Payables:CDBA:Diana Adachi
+
+2016-03-21 CDBA Membership
+  ;PayPal
+  Assets:Checking  $140
+  Liabilities:Payables:CDBA:Xue Ling
 
