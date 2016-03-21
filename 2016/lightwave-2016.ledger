@@ -88,3 +88,9 @@
   Liabilities:Payables:CDBA:Flemming Wahl  $-140
   Assets:Receivables:Dolev Zaharony  $140
   Liabilities:Payables:CDBA:Dolev Zaharony  $-140
+
+2016-03-14 CDBA Membership
+  ;PayPal
+  Assets:Checking  $140
+  Assets:Receivables:Melvin Lee
+
