@@ -43,7 +43,7 @@
   Liabilities:Payables:CDBA:Richard Ho  $140
   Liabilities:Payables:CDBA:Liliane Hsu  $140
   Liabilities:Payables:CDBA:Henry Jiang  $140
-  Liabilities:Payables:CDBA:Maike Krämer  $140
+  Liabilities:Payables:CDBA:Maike Kraemer  $140
   Liabilities:Payables:CDBA:Alan Layug  $140
   Liabilities:Payables:CDBA:Melvin Lee  $140
   Liabilities:Payables:CDBA:Jessica Li  $140
@@ -66,8 +66,8 @@
   Liabilities:Payables:CDBA:Richard Ho  $-140
   Assets:Receivables:Henry Jiang  $140
   Liabilities:Payables:CDBA:Henry Jiang  $-140
-  Assets:Receivables:Maike Krämer  $140
-  Liabilities:Payables:CDBA:Maike Krämer  $-140
+  Assets:Receivables:Maike Kraemer  $140
+  Liabilities:Payables:CDBA:Maike Kraemer  $-140
   Assets:Receivables:Alan Layug  $140
   Liabilities:Payables:CDBA:Alan Layug  $-140
   Assets:Receivables:Melvin Lee  $140
@@ -113,4 +113,25 @@
   ;PayPal
   Assets:Checking  $140
   Assets:Receivables:Dante Popple
+
+2016-03-28 CDBA Membership
+  Assets:Checking  $280
+  Assets:Receivables:Jessica Li  $-140
+  Assets:Receivables:Kenji Taira  $-140
+
+2016-03-28 CDBA Membership
+  Assets:Checking  $140
+  Assets:Receivables:Maike Kraemer
+
+2016-03-28 CDBA Membership
+  Assets:Checking  $140
+  Assets:Receivables:Nina Myers
+
+2016-03-28 CDBA Membership
+  Assets:Checking  $140
+  Assets:Receivables:Charles Dillon
+
+2016-03-28 CDBA Membership
+  Assets:Checking  $140
+  Assets:Receivables:Flemming Wahl
 
