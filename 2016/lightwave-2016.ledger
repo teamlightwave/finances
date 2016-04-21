@@ -140,7 +140,8 @@
   Expenses:Regatta:Race Fee  $400
   Assets:Checking
 
-2016-04-17 CDBA Membership
+2016-04-17 Team BBQ
+  ;Chase QuickPay from Mark Pogunkte 
   Assets:Checking  $280
   Revenues:Team BBQ
 
@@ -151,4 +152,13 @@
 2016-04-19 CDBA Membership
   Assets:Checking  $140
   Liabilities:Payables:CDBA:Aditya Kelkar
+
+2016-04-20 CDBA Membership
+  Assets:Checking  $70
+  Assets:Receivables:Jeannie Llewelyn
+
+2016-04-20 Team BBQ
+  ;WF SurePay to Mark Pogunkte
+  Expenses:Team BBQ  $179.45
+  Assets:Checking
 
