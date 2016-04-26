@@ -171,3 +171,25 @@
   Assets:Checking  $140
   Assets:Receivables:Henry Jiang
 
+2016-04-26 CDBA Membership
+  Liabilities:Payables:CDBA:Diana Adachi  $140
+  Liabilities:Payables:CDBA:Chris Beltran  $140
+  Liabilities:Payables:CDBA:Angela Harper  $140
+  Liabilities:Payables:CDBA:Aditya Kelkar  $140
+  Liabilities:Payables:CDBA:Xue Ling  $140
+  Liabilities:Payables:CDBA:Den Sagenes  $140
+  Liabilities:Payables:CDBA:Eric Wong  $140
+  Assets:Checking  $-980
+
+2016-04-26 CDBA Membership
+  Assets:Receivables:Chris Beltran  $140
+  Liabilities:Payables:CDBA:Chris Beltran  $-140
+  Assets:Receivables:Den Sagenes  $140
+  Liabilities:Payables:CDBA:Den Sagenes  $-140
+  Assets:Receivables:Eric Wong  $140
+  Liabilities:Payables:CDBA:Eric Wong  $-140
+
+2016-04-26 CDBA Membership
+  Expenses:CPR Training  $20
+  Assets:Checking
+
