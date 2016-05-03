@@ -189,7 +189,12 @@
   Assets:Receivables:Eric Wong  $140
   Liabilities:Payables:CDBA:Eric Wong  $-140
 
-2016-04-26 CDBA Membership
-  Expenses:CPR Training  $20
+2016-04-26 CDBA CPR Training
+  Assets:Receivables:Melvin Lee  $20
   Assets:Checking
+
+2016-05-03 Melvin Lee
+  ;PayPal
+  Assets:Checking  $10
+  Assets:Receivables:Melvin Lee
 
