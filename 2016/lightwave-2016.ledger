@@ -4,7 +4,7 @@
 
 2016-03-06 CDBA Membership
   Assets:Checking  $140
-  Liabilities:Payables:CDBA:Mark Poguntke  
+  Liabilities:Payables:CDBA:Mark Poguntke
 
 2016-03-06 CDBA Membership
   Assets:Checking  $140
@@ -29,7 +29,7 @@
 
 2016-03-07 CDBA Membership
   Assets:Checking  $140
-  Liabilities:Payables:CDBA:Liliane Hsu
+  Liabilities:Payables:CDBA:Lili Hsu
 
 2016-03-14 CDBA Membership
   Assets:Checking  $140
@@ -41,7 +41,7 @@
   Liabilities:Payables:CDBA:Ninad Golakiya  $140
   Liabilities:Payables:CDBA:Michelle Hattan  $140
   Liabilities:Payables:CDBA:Richard Ho  $140
-  Liabilities:Payables:CDBA:Liliane Hsu  $140
+  Liabilities:Payables:CDBA:Lili Hsu  $140
   Liabilities:Payables:CDBA:Henry Jiang  $140
   Liabilities:Payables:CDBA:Maike Kraemer  $140
   Liabilities:Payables:CDBA:Alan Layug  $140
@@ -191,7 +191,7 @@
 
 2016-04-26 CDBA CPR Training
   Assets:Receivables:Melvin Lee  $10
-  Assets:Receivables:Liliane Hsu  $10
+  Assets:Receivables:Lili Hsu  $10
   Assets:Checking
 
 2016-05-03 Melvin Lee
@@ -213,4 +213,32 @@
   ;WF via Mark Pogunkte
   Assets:Checking  $140
   Assets:Receivables:Chris Beltran
+
+2016-05-14 Regatta race fee
+  ;WF via Mark Pogunkte
+  Assets:Checking  $490
+  Assets:Receivables:Charles Dillon  $-35
+  Assets:Receivables:Chris Beltran  $-35
+  Assets:Receivables:Diana Adachi  $-35
+  Assets:Receivables:Dolev Zaharony  $-35
+  Assets:Receivables:Eric Wong  $-35
+  Assets:Receivables:Flemming Wahl  $-35
+  Assets:Receivables:Henry Jiang  $-35
+  Assets:Receivables:Jei Dungca  $-35
+  Assets:Receivables:Jenna Tanaka  $-35
+  Assets:Receivables:Jessica Li  $-35
+  Assets:Receivables:Lili Hsu  $-35
+  Assets:Receivables:Maike Kraemer  $-35
+  Assets:Receivables:Mark Poguntke  $-35
+  Assets:Receivables:Michelle Hattan  $-35
+
+2016-05-15 Regatta race fee
+  ;PayPal
+  Assets:Checking  $35
+  Assets:Receivables:Angela Harper
+
+2016-05-15 Regatta race fee
+  ;WF via Mark Pogunkte
+  Assets:Checking  $35
+  Assets:Receivables:Nina Myers
 
