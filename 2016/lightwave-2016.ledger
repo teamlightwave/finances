@@ -236,11 +236,11 @@
   Assets:Receivables:Nina Myers  $35
 
 2016-05-14 Regatta food expenese
-  Expenses:Regatta  $177.62
+  Expenses:Regatta:Food  $177.62
   Assets:Receivables:Jeannie Llewellyn
 
 2016-05-14 Regatta food expenese
-  Expenses:Regatta  $65.2
+  Expenses:Regatta:Food  $65.2
   Assets:Receivables:Maike Kraemer
 
 2016-05-14 Regatta race fee
@@ -279,4 +279,10 @@
 2016-06-08 Meetup Dues
   Expenses:Misc:Meetup Dues  $89.94
   Assets:Receivables:Melvin Lee
+
+2016-06-18 Regatta Food
+  ; Paid to Mark Pogunkte
+  Assets:Receivables:Jeannie Llewellyn  $177.62
+  Assets:Receivables:Maike Kraemer  $65.2
+  Assets:Checking
 
