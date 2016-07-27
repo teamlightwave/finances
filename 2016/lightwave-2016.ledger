@@ -291,6 +291,21 @@
   Expenses:Sprints:Race Fee  $400
   Assets:Checking
 
+2016-07-13 Shirts
+  ;WF SurePay from Mark Pogunkte
+  Assets:Checking  $151
+  Revenues:Shirts
+
+2016-07-13 Portland
+  ;WF SurePay from Mark Pogunkte
+  Assets:Checking  $76
+  Revenues:Portland
+
+2016-07-21 Sprints
+  ;WF SurePay from Mark Pogunkte
+  Assets:Checking  $447.54
+  Revenues:Sprints
+
 2016-07-27 CDBA Membership
   Assets:Checking  $140
   Liabilities:Payables:CDBA:Vasisht Gopalan
@@ -307,15 +322,24 @@
   Assets:Checking  $140
   Assets:Receivables:Eric Wong
 
+2016-07-20 CDBA Membership
+  ;WF SurePay from Mark Pogunkte
+  Assets:Checking  $140
+  Liabilities:Payables:CDBA:Jacky Wei
+
 2016-07-27 CDBA Membership
   Liabilities:Payables:CDBA:Tanner Devoe  $140
   Liabilities:Payables:CDBA:Lisa Orton  $140
   Assets:Checking  $-280
 
 2016-07-27 CDBA Membership
+  Assets:Receivables:Tanner Devoe  $140
+  Liabilities:Payables:CDBA:Tanner Devoe
+
+2016-07-27 CDBA Membership
   Liabilities:Payables:CDBA:Vasisht Gopalan  $140
   Liabilities:Payables:CDBA:Lisa Molaro  $140
-  Assets:Receivables:Jacky Wei  $140
+  Liabilities:Payables:CDBA:Jacky Wei  $140
   Liabilities:Payables:CDBA:Dongdi Zhou  $140
   Assets:Receivables:Mark Pogunkte  $-560
 
