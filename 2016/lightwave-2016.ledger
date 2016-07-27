@@ -312,3 +312,15 @@
   Liabilities:Payables:CDBA:Lisa Orton  $140
   Assets:Checking  $-280
 
+2016-07-27 CDBA Membership
+  Liabilities:Payables:CDBA:Vasisht Gopalan  $140
+  Liabilities:Payables:CDBA:Lisa Molaro  $140
+  Assets:Receivables:Jacky Wei  $140
+  Liabilities:Payables:CDBA:Dongdi Zhou  $140
+  Assets:Receivables:Mark Pogunkte  $-560
+
+2016-07-27 CDBA Membership
+  ;WF SurePay to Mark Pogunkte
+  Assets:Receivables:Mark Pogunkte  $560
+  Assets:Checking
+
