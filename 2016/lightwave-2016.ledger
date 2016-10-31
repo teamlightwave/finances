@@ -348,6 +348,11 @@
   Assets:Receivables:Mark Pogunkte  $560
   Assets:Checking
 
+2016-09-19 Jei Dungca
+  ;WF SurePay
+  Assets:Checking  $85
+  Assets:Receivables:Jei Dungca
+
 2016-10-03 Jeannie Llewelyn
   ;PayPal
   Expenses:NCIDBF:Food  $716.06
@@ -371,13 +376,13 @@
 2016-10-03
   Assets:Receivables:Aditi Kelkar  $85
   Assets:Receivables:Alan Layug  $85
-  Assets:Receivables:Angela  $85
+  Assets:Receivables:Angela Harper  $85
   Assets:Receivables:Charles Dillon  $85
   Assets:Receivables:Chris Beltran  $85
   Assets:Receivables:Den  $85
   Assets:Receivables:Dongdi Zhou  $85
-  Assets:Receivables:Elaine L  $85
-  Assets:Receivables:Eric W  $85
+  Assets:Receivables:Ling Xue  $85
+  Assets:Receivables:Eric Wong  $85
   Assets:Receivables:Flemming Wahl  $85
   Assets:Receivables:Henry Jiang  $85
   Assets:Receivables:Jacky Wei  $85
@@ -402,3 +407,36 @@
   Assets:Receivables:Henry Jiang  $-85
   Assets:Receivables:Mark Poguntke  $-85
   Assets:Receivables:Tanner Devoe  $-85
+
+2016-10-30
+  Assets:Receivables:Jessica Li  $-85
+  Assets:Receivables:Nina Myers  $-85
+  Assets:Receivables:Jason Trinh  $-85
+  Assets:Receivables:Ninad Golakiya  $-85
+  Assets:Receivables:Eric Wong  $-85
+  Assets:Receivables:Dongdi Zhou  $-85
+  Assets:Receivables:Flemming Wahl  $-85
+  Assets:Receivables:Maike Kraemer  $-85
+  Assets:Receivables:Lisa Molaro  $-85
+  Assets:Receivables:Michelle Hattan  $-85
+  Assets:Receivables:Ling Xue  $-80.06
+  Assets:Receivables:Lili Hsu  $-85
+  Assets:Receivables:Chris Beltran  $-85
+  Assets:Receivables:Angela Harper  $-85
+  Assets:Checking
+
+2016-10-30
+  Assets:Receivables:Ling Xue  $-4.94
+  Assets:Receivables:Melvin Lee  $4.94
+
+2016-10-30
+  Expenses:Equipment:Tent  $94.42
+  Assets:Receivables:Charles Dillon
+
+2016-10-30
+  Expenses:NCIDBF:Food  $50
+  Assets:Receivables:Mira Gillet
+
+2016-08-10 CDBA
+  Expenses:NCIDBF:Race Fee  $1000
+  Assets:Checking
