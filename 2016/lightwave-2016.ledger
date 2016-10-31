@@ -353,3 +353,52 @@
   Expenses:NCIDBF:Food  $716.06
   Assets:Checking
 
+2016-10-03
+  ;Correction for Jason only paddling for half year
+  Assets:Receivables:Jason Trinh  $-70
+  Liabilities:Payables:CDBA:Jason Trinh  $70
+
+2016-10-03 Mark Poguntke
+  ;Shirts
+  Assets:Checking  $23
+  Revenues:Shirts
+
+2016-10-03 Jason Trinh
+  ;via Mark Poguntke
+  Assets:Checking  $70
+  Assets:Receivables:Jason Trinh
+
+2016-10-03
+  Assets:Receivables:Aditi Kelkar  $85
+  Assets:Receivables:Alan Layug  $85
+  Assets:Receivables:Angela  $85
+  Assets:Receivables:Charles Dillon  $85
+  Assets:Receivables:Chris Beltran  $85
+  Assets:Receivables:Den  $85
+  Assets:Receivables:Dongdi Zhou  $85
+  Assets:Receivables:Elaine L  $85
+  Assets:Receivables:Eric W  $85
+  Assets:Receivables:Flemming Wahl  $85
+  Assets:Receivables:Henry Jiang  $85
+  Assets:Receivables:Jacky Wei  $85
+  Assets:Receivables:Jason Trinh  $85
+  Assets:Receivables:Jei Dungca  $85
+  Assets:Receivables:Jessica Li  $85
+  Assets:Receivables:Lili Hsu  $85
+  Assets:Receivables:Lisa Molaro  $85
+  Assets:Receivables:Maike Kraemer  $85
+  Assets:Receivables:Mark Poguntke  $85
+  Assets:Receivables:Melvin Lee  $85
+  Assets:Receivables:Michelle Hattan  $85
+  Assets:Receivables:Nina Myers  $85
+  Assets:Receivables:Ninad Golakiya  $85
+  Assets:Receivables:Tanner Devoe  $85
+  Revenues:NCIDBF
+
+2016-10-03 Mark Poguntke
+  ;WF SurePay
+  Assets:Checking  $340
+  Assets:Receivables:Aditi Kelkar  $-85
+  Assets:Receivables:Henry Jiang  $-85
+  Assets:Receivables:Mark Poguntke  $-85
+  Assets:Receivables:Tanner Devoe  $-85
