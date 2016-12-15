@@ -379,7 +379,7 @@
   Assets:Receivables:Angela Harper  $85
   Assets:Receivables:Charles Dillon  $85
   Assets:Receivables:Chris Beltran  $85
-  Assets:Receivables:Den  $85
+  Assets:Receivables:Den Sagenes  $85
   Assets:Receivables:Dongdi Zhou  $85
   Assets:Receivables:Ling Xue  $85
   Assets:Receivables:Eric Wong  $85
@@ -452,3 +452,8 @@
 2016-12-13 Melvin Lee
   Expenses:Misc:Meetup Dues  $89.94
   Assets:Checking
+
+2016-12-14 Den Sagenes
+  Assets:Checking  $85
+  Assets:Receivables:Den Sagenes
+
